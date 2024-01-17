@@ -1,5 +1,5 @@
 # Arabic Diacritization
-This is an ongoing project of building a model that predicts diacritics for Arabic texts.
+This is a work in progress on a model for diacritizing Arabic texts.
 
 ## Experiment 1: Word-Level Small Model
   ### Goal: 
