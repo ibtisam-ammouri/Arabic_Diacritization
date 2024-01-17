@@ -17,7 +17,7 @@ This is an ongoing project of building a model that predicts diacritics for Arab
   - Ran on high RAM CPU on Google Colab.   
   
   ### Files:
-  1. **word-based-model-20000.ipynb**: Main notebook. 
+  1. **word-based-model-20000.ipynb**: Main notebook. Make sure to specify the path to your local copy in the second cell.
   2. **Bin_Data**: Pickled lists of input and output sentences.
   3. **half-model.h5**: trained model that can be loaded in (1) instead of running the training loop.
   4. **delete-letters-from-list.py**: A preprocessing step that turned out to be problematic in hindsight.
