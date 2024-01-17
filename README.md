@@ -34,7 +34,7 @@ This is an ongoing project of building a model that predicts diacritics for Arab
   
   ### Issues: 
   - After inspecting the results, I realized that there is a problem in the way I created the labels.
-    In an attempt to reduce processing load, I removed the letters from the targets and kept the harakat only.
+    In an attempt to reduce processing load, I removed the letters from the targets and kept the harakat only using the script delete-letters-from-list.py.
 
     I handeled undiacritized words by replacing them with zeros (to preserve their position in the sentence), but I didn't do the same for individual undiacritized letters in otherwise diacritized words.
 
