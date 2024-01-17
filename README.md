@@ -7,6 +7,7 @@ This is an ongoing project of building a model that predicts diacritics for Arab
 
   ### Data:
   20000 sentences from the MSA section of the Tashkeela Corpus.
+  
   T. Zerrouki, A. Balla, Tashkeela: Novel corpus of Arabic vocalized texts, data for auto-diacritization systems, Data in Brief (2017), [http://dx.doi.org/10.1016/j.dib.2017.01.011](https://www.sciencedirect.com/science/article/pii/S2352340917300112?via%3Dihub) 
 
   ### Architecture:
