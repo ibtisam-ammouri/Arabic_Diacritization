@@ -1,7 +1,7 @@
 # Arabic Diacritization
 This is an ongoing project of building a model that predicts diacritics for Arabic texts.
 
-## Experiment 1: 
+## Experiment 1: Word-Level Small Model
   ### Goal: 
   Given a sentence like 'هذه الجملة', the model predicts ['1614 1616 1616' , '1618 1615 1618 1614'],  which are the decimal unicode codepoints representing ['  َ  ِ  ِ ' , '  ْ  ُ  ْ  َ '].
 
